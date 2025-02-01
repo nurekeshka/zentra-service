@@ -1,0 +1,12 @@
+{
+  "description": "Zentra Service serves the application as API for accessing business logic.",
+  "path": "api",
+  "servers": [
+    {
+      "link": "http://localhost:8080",
+      "title": "PC - Setup"
+    }
+  ],
+  "title": "Zentra API Service",
+  "version": "0.0.1"
+}

@@ -1,0 +1,12 @@
+{
+  "defaultLimit": 0,
+  "ignoreSearchByInQueryParam": false,
+  "ignoreSelectInQueryParam": false,
+  "loadEagerRelations": false,
+  "maxLimit": 0,
+  "nullSort": "first",
+  "origin": "",
+  "paginationType": "limit",
+  "relativePath": false,
+  "withDeleted": false
+}
